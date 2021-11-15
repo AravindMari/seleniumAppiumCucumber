@@ -1,0 +1,15 @@
+.idea
+.settings
+target/*
+out/*
+build/*
+*.iml
+output/*
+cucumber/*
+.git
+app/*
+.log
+.project
+optimus.log
+.DS_Store
+.classpath
